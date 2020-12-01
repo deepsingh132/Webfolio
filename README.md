@@ -1,5 +1,5 @@
 
-# Portfolio Website Using Flutter Web
+# Digital Portfolio Website Using Flutter
 A portfolio website built using flutter for web.
 
 Happy learning. :+1:
@@ -19,7 +19,7 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 ## Project Created & Maintained By
 
-### Aditya Gurjar
+### Mandeep Singh
 
 
 <a href="https://play.google.com/store/apps/developer?id=Aditya+Gurjar"><img src="https://github.com/aritraroy/social-icons/blob/master/play-store-icon.png?raw=true" width="60"></a> <a href="https://medium.com/@adityadroid"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a>
