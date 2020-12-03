@@ -43,7 +43,7 @@ final List<Project> projects = [
       name: 'WebFolio', //F Newz
       image: Assets.webfolio,
       description:
-          'Digital Portfolio App helps a car dealership to manage sales process and improve the productivity`.',
+          'A Digital Portfolio App developed with Flutter for multi-platform Portfolio',
       link: 'https://github.com/deepsingh132/webfolio'),
   Project(
       name: '2 Do\'s',
