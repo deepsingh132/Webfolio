@@ -1,0 +1,9 @@
+language: dart
+dart:
+
+# Install the latest dev release
+- dev
+
+dart_task:
+- test: --platform vm
+- test: --platform chrome
